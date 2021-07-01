@@ -1,6 +1,1 @@
-## Copied from Homework #1
-
-lib/pages/new_user.dart
-lib/pages/user_signup.dart
-lib/pages/user_login.dart
-lib/widgets/custom_forms.dart
+Please check the releases section of this repo for both an APK build of the app and a video demonstrating the app working on my own device.
